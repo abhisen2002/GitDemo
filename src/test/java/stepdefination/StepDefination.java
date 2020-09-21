@@ -29,6 +29,7 @@ public class StepDefination {
 	
 		System.out.println("Username"+username);
 		System.out.println("Password"+password);
+                System.out.println("Click on Submit");
 	}
 	
 	@Then("^User won't be able to login$")
