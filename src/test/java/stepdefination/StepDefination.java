@@ -19,7 +19,7 @@ public class StepDefination {
 	public void landing_page() {
 	
 		 
-		System.out.println("User in Landing Page");
+		System.out.println("Hello!User in Landing Page");
 	    
 	}
 	
